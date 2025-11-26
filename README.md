@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm Mahesh Choudhary
+Data Analyst | SQL • Python • Power BI • Excel | Turning Raw Data into Actionable Insights
 
-<!--
-**maheshbchoudhary59-dot/maheshbchoudhary59-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I analyze data end-to-end — from cleaning and transforming raw datasets to building dashboards, reports, and models that support real business decisions.
+I enjoy solving complex problems with simple, practical, and data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Stack & Tools
+
+Languages:
+•Python • SQL • DAX
+
+Data & Analytics:
+•Power BI • Excel • Pandas • NumPy 
+
+Databases:
+•SQL Server • MySQL •MS-SQL
+
+
+
+📬 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/mahesh-choudhary-data-analyst-unlocking-insights/
+📧 Email: maheshbchoudhary59@gmail.com
+
+⭐ Thanks for visiting — feel free to explore my projects or connect with me!
